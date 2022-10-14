@@ -43,7 +43,7 @@ Features:
    ```
 2. Download this repo:
    ```
-   git clone https://github.com/spaceshiptrip/DevSeries-Backend-Flask.git
+   git clone https://github.com/dkaberna/DevSeries-Backend-Flask.git
    ```
 
 ## Build and Execute
@@ -95,10 +95,7 @@ Features:
 Test with either cURL commands:
 
 * cURL ([Windows](https://stackoverflow.com/questions/9507353/how-do-i-install-and-use-curl-on-windows)  [MacOS](https://idratherbewriting.com/learnapidoc/docapis_install_curl.html#:~:text=at%20paligo.net.-,Install%20curl%20on%20Mac,curl%20is%20probably%20already%20installed.))
-  ```
-  curl http://localhost:5000/getSomeData
-  curl http://localhost:5000/getSomeDataFromFile
-  ```
+
 
 ## Stopping Server
 * Dockerized version
@@ -116,14 +113,13 @@ Test with either cURL commands:
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/issues/spaceshiptrip/DevSeries-Backend-Flask?style=for-the-badge
-[contributors-url]: https://github.com/spaceshiptrip/TechInterview-Backend/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/spaceshiptrip/DevSeries-Backend-Flask?style=for-the-badge
-[forks-url]: https://github.com/spaceshiptrip/TechInterview-Backend/network/members
-[issues-shield]: https://img.shields.io/github/issues/spaceshiptrip/DevSeries-Backend-Flask?style=for-the-badge
-[issues-url]: https://github.com/spaceshiptrip/TechInterview-Backend/issues
-[license-shield]: https://img.shields.io/github/license/spaceshiptrip/DevSeries-Backend-Flask?style=for-the-badge
-[license-url]: https://github.com/spaceshiptrip/DevSeries-Backend-Flask/blob/main/LICENSE
+[contributors-shield]: https://img.shields.io/github/issues/dkaberna/DevSeries-Backend-Flask?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/dkaberna/DevSeries-Backend-Flask?style=for-the-badge
+[forks-url]: https://github.com/dkaberna/DevSeries-Backend-Flask/network/members
+[issues-shield]: https://img.shields.io/github/issues/dkaberna/DevSeries-Backend-Flask?style=for-the-badge
+[issues-url]: https://github.com/dkaberna/DevSeries-Backend-Flask/issues
+[license-shield]: https://img.shields.io/github/license/dkaberna/DevSeries-Backend-Flask?style=for-the-badge
+[license-url]: https://github.com/dkaberna/DevSeries-Backend-Flask/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/jaytorres-robotics/
+[linkedin-url]: https://www.linkedin.com/in/devon-kaberna-cfa-0a13962/
 [product-screenshot]: images/screenshot.png
