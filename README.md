@@ -114,6 +114,7 @@ Test with either cURL commands:
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/issues/dkaberna/DevSeries-Backend-Flask?style=for-the-badge
+[contributors-url]: https://github.com/dkaberna/DevSeries-Backend-Flask/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/dkaberna/DevSeries-Backend-Flask?style=for-the-badge
 [forks-url]: https://github.com/dkaberna/DevSeries-Backend-Flask/network/members
 [issues-shield]: https://img.shields.io/github/issues/dkaberna/DevSeries-Backend-Flask?style=for-the-badge
