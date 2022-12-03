@@ -1,6 +1,5 @@
 import json
 
-from pathlib import Path
 import os.path
 
 from models.model import *
