@@ -1,5 +1,8 @@
 import json
 
+from pathlib import Path
+import os.path
+
 from models.model import *
 
 class employee():
@@ -17,12 +20,15 @@ class employee():
         Serializes json file
     """
 
+    
+
     def __init__(self):
         self.globalData = {"message":"Hello from Flask!", "ok":"true"}
-        self.filename = ".\data\employees.json"
+        data_folder = os.path.join("data")
+        self.filename = os.path.join(data_folder, "employees.json")
         self.employee = self.load_employee(self.filename)
 
-    # Load employee json file
+    # Load employee json file"
     def load_employee(self, filename):
         my_model = model()
         instance = my_model.load_db(filename)
